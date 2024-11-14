@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Rendel Abainza!
 
-<!--
-**RAbnza/RAbnza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **TravelWise: Budget Trip Planner**, a knapsack algorithm-based travel planner to help users find cost-effective, time-efficient, and fun travel plans.
+- 🌱 I’m currently learning **advanced Java concepts** and working on multi-level inheritance examples.
+- 👾 I’m building a **2D game called Etherfall**, inspired by my love for JRPGs.
+- 💡 I'm developing **Maik-C**, a programming language that shortens coding time with simplified syntax, especially for basic data types and control structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About
+- My experience creating frameworks and GUIs, such as **JewelRise Club** (jewelry database) and **e Patient Demographic Database Management System**
+- How to get started with **web application forms for databases** or **hypothesis testing**
+- Creating **educational resources** on environmental science (I’m working on EnviroLearn, a site for ecosystem restoration education)
+
+### 🤔 I’m looking for help with
+- Suggestions for improving my portfolio.
+- Learning more programming languages.
+
+### ⚡ Fun Facts
+- I'm a huge fan of **anime, manga, and light novels**.
+- I play almost all of **HoYoverse's games** like Genshin Impact, Honkai Star Rail, and Honkai Impact 3rd (except Zenless Zone Zero due to storage limits!).
+- I’ve been fascinated by computers since childhood, and it’s what drove me to pursue computer science.
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/rendel-abainza/)
+- [Email](abainzarendel11@gmail.com)
+
+Looking forward to connecting with fellow developers and enthusiasts!
