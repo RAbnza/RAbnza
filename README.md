@@ -4,7 +4,7 @@
 - I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
 
 ### 🤔 I’m Currently Busy With
-- Improving my personal portfolio.
+- Redesigning my personal portfolio
 - Learning more programming languages such as C#.
 
 ### ⚡ Fun Facts
