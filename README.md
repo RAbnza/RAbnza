@@ -3,14 +3,9 @@
 ### 👨‍💻 About Me
 - I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
 
-### 💬 Ask Me About
-- My experience creating frameworks and GUIs, such as **JewelRise Club** (jewelry database) and **e Patient Demographic Database Management System**
-- How to get started with **web application forms for databases** or **hypothesis testing**
-- Creating **educational resources** on environmental science (I’m working on EnviroLearn, a site for ecosystem restoration education)
-
-### 🤔 I’m looking for help with
-- Suggestions for improving my portfolio.
-- Learning more programming languages.
+### 🤔 I’m Currently Busy With
+- Improving my personal portfolio.
+- Learning more programming languages such as C#.
 
 ### ⚡ Fun Facts
 - I'm a huge fan of **anime, manga, and light novels**.
