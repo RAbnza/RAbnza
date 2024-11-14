@@ -1,11 +1,7 @@
 ## Hi there 👋 I'm Rendel Abainza!
 
-I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
-
 ### 👨‍💻 About Me
-- 👾 I’m building a **2D game called Etherfall**, inspired by my love for JRPGs.
-- 💡 I'm developing **Maik-C**, a programming language that shortens coding time with simplified syntax, especially for basic data types and control structures.
-- I'm 21 years old, BSCS Student
+- I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
 
 ### 💬 Ask Me About
 - My experience creating frameworks and GUIs, such as **JewelRise Club** (jewelry database) and **e Patient Demographic Database Management System**
