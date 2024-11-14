@@ -3,8 +3,6 @@
 I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **TravelWise: Budget Trip Planner**, a knapsack algorithm-based travel planner to help users find cost-effective, time-efficient, and fun travel plans.
-- 🌱 I’m currently learning **advanced Java concepts** and working on multi-level inheritance examples.
 - 👾 I’m building a **2D game called Etherfall**, inspired by my love for JRPGs.
 - 💡 I'm developing **Maik-C**, a programming language that shortens coding time with simplified syntax, especially for basic data types and control structures.
 
