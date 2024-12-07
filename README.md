@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rendel Abainza!
 
 ### 👨‍💻 About Me
-- I'm a 20-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
+- I'm a 21-year-old computer science student passionate about programming, game development, and software engineering. I spend most of my time coding, gaming, or learning something new in tech!
 
 ### 🤔 I’m Currently Busy With
 - Redesigning my personal portfolio
