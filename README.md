@@ -56,7 +56,7 @@
 <details open>
     <summary><strong>RAbnza Portfolio</strong> — polished personal site built with React, Vite, TailwindCSS, Framer Motion, and Lenis.</summary>
     <ul>
-        <li>Built a calm-first layout with responsive typography, motion preferences, and smooth scroll orchestration.</li>
+        <li>Built a layout with responsive typography, motion preferences, and smooth scroll orchestration.</li>
         <li>Structured data-driven project and hobbies sections for effortless updates.</li>
         <li>Optimized load times with Vite code-splitting and asset pruning.</li>
     </ul>
