@@ -119,7 +119,7 @@
 - <strong>Information and Communications Technology Strand</strong>, Polytechnic University of the Philippines<br />
   <small>2019 – 2021 · Sta. Mesa, Manila · Graduated with High Honors (Top 5%)</small>
 
-## Connect with me
+## Connect With Me 
 
 <div align="center">
     <a href="https://github.com/RAbnza" target="_blank" rel="noopener noreferrer">
