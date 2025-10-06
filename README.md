@@ -22,7 +22,7 @@
 
 <p align="center">
     <a href="https://rabnza-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><strong>(✦‿✦) Click to see my live portfolio →</strong></a><br />
-    <a href="https://github.com/RAbnza/rabnza-portfolio" target="_blank" rel="noopener noreferrer">View the source on GitHub</a>
+    <!-- <a href="https://github.com/RAbnza/rabnza-portfolio" target="_blank" rel="noopener noreferrer">View the source on GitHub</a> -->
 </p>
 
 ## Core Tech Stack
@@ -119,7 +119,7 @@
 - <strong>Information and Communications Technology Strand</strong>, Polytechnic University of the Philippines<br />
   <small>2019 – 2021 · Sta. Mesa, Manila · Graduated with High Honors (Top 5%)</small>
 
-## Connect With Me 
+## Connect With Me
 
 <div align="center">
     <a href="https://github.com/RAbnza" target="_blank" rel="noopener noreferrer">
