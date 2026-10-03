@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="232" viewBox="0 0 960 232" fill="none" role="img" aria-labelledby="title"><title id="title">Rendel Abainza — Useful software. Thoughtfully built.</title><rect x="0.5" y="0.5" width="959" height="231" rx="18" fill="#111116" stroke="#343440"/>
+  <path d="M32 32h28" stroke="#c8b6f2" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+  <text x="74" y="38" fill="#b9b9c6" font-size="16" font-weight="600" letter-spacing="2">RENDEL ABAINZA / DEVELOPER</text>
+  <text x="32" y="107" fill="#f5f5f8" font-size="51" font-weight="700" letter-spacing="-1.5">Useful software.</text>
+  <text x="32" y="166" fill="#c8b6f2" font-size="51" font-weight="700" letter-spacing="-1.5">Thoughtfully built.</text>
+  <text x="34" y="204" fill="#b9b9c6" font-size="16">From interface to system.</text></g>
+  <path d="M679 32v168" stroke="#343440"/>
+  <circle cx="815" cy="113" r="72" stroke="#343440"/>
+  <g transform="translate(720 15) scale(1.04)"><path d="M35 125V66h15v10c7-9 14-12 25-11v16c-17-2-24 5-24 22v22zm87-2c-7 4-13 6-20 6-17 0-28-13-28-33s11-33 28-33c8 0 14 3 20 8v-6h16v60h-16zm-15-9c10 0 16-7 16-18s-6-18-16-18-16 7-16 18 6 18 16 18" fill="#f5f5f8"/><circle cx="153" cy="119" r="8" fill="#c8b6f2"/></g>
+  <path d="M747 202h130" stroke="#343440"/><circle cx="811" cy="202" r="5" fill="#c8b6f2" opacity="0.3"></circle></svg>
