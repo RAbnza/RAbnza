@@ -1,8 +1,8 @@
-<p align="center">
+﻿<p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./readme/assets/images/main-logo-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="./readme/assets/images/main-logo-light.svg" />
-        <img src="./readme/assets/images/main-logo-light.svg" alt="Outlined RA monogram" width="340" />
+        <img src="./readme/assets/images/main-logo-light.svg" alt="Outlined RA monogram" width="240" />
     </picture>
 </p>
 
@@ -17,11 +17,12 @@
 ##
 
 <p align="center">
-     I like building things that feel calm, consistent, and easy to use—whether it's an interface or a small internal tool.
+     I build web applications with thoughtful interfaces and dependable systems.<br />
+     My current work focuses on practical workflows, relational data, and testable application behavior.
 </p>
 
 <p align="center">
-    <a href="https://rabnza-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><strong>(✦‿✦) Click to see my live portfolio →</strong></a><br />
+    <a href="https://rabnza-dev.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>(✦‿✦) Click to see my live portfolio →</strong></a><br />
     <!-- <a href="https://github.com/RAbnza/rabnza-portfolio" target="_blank" rel="noopener noreferrer">View the source on GitHub</a> -->
 </p>
 
@@ -36,9 +37,6 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-</div>
-
-<div align="center">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
@@ -54,55 +52,52 @@
 ## Selected Projects
 
 <details open>
-    <summary><strong>RAbnza Portfolio</strong> — polished personal site built with React, Vite, TailwindCSS, Framer Motion, and Lenis.</summary>
+    <summary><strong>TindaTrack</strong> — inventory and sales management for small local retailers.</summary>
     <ul>
-        <li>Built a layout with responsive typography, motion preferences, and smooth scroll orchestration.</li>
-        <li>Structured data-driven project and hobbies sections for effortless updates.</li>
-        <li>Optimized load times with Vite code-splitting and asset pruning.</li>
+        <li>Mobile-first React and TypeScript interface backed by an Express API, PostgreSQL, and Prisma.</li>
+        <li>Inventory comes from a stock movement ledger; sales commit items, stock changes, and audit evidence in one transaction, with prices and totals calculated by the server.</li>
+        <li>API-enforced owner/staff roles, stock receiving and adjustments, daily reporting, and printable receipts. Frontend and backend tests cover operational workflows.</li>
     </ul>
     <p>
-        <a href="https://rabnza-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">Live demo</a>
-        ·
-        <a href="https://github.com/RAbnza/rabnza-portfolio" target="_blank" rel="noopener noreferrer">Source</a>
+        <a href="https://tindatrack.pages.dev/">Live demo</a>
+        · <a href="https://github.com/RAbnza/TindaTrack">Source</a>
     </p>
 </details>
 
 <details>
-    <summary><strong>HomeRoom</strong> — rental management platform (Laravel, PHP, Tailwind CSS, MySQL).</summary>
+    <summary><strong>Personal Portfolio · rabnza-dev</strong> — project case studies and developer background.</summary>
     <ul>
-        <li>Led a 5-person team to streamline landlord and tenant workflows.</li>
-        <li>Implemented automated dues tracking, reminders, and tenant summaries.</li>
+        <li>Static Astro pages with strict TypeScript, Tailwind/CSS, self-hosted Geist typography, and build-time Lucide SVG icons.</li>
+        <li>Anime.js enhancements respect reduced-motion preferences; content remains available without JavaScript.</li>
+        <li>Validated Markdown project content and Playwright checks for navigation, responsive layouts, and accessibility.</li>
     </ul>
     <p>
-        <a href="https://github.com/COMP-016-Web-Development-Group-1/HomeRoom" target="_blank" rel="noopener noreferrer">Source</a>
+        <a href="https://rabnza-dev.vercel.app/">Live portfolio</a>
+        · <a href="https://github.com/RAbnza/rabnza-dev">Source (private repository)</a>
     </p>
 </details>
 
 <details>
-    <summary><strong>TravelWise</strong> — itinerary planner (Java, Swing / JFrame).</summary>
+    <summary><strong>HomeRoom</strong> — collaborative full-stack rental management project.</summary>
     <ul>
-        <li>Implemented Branch and Bound knapsack + Boyer–Moore algorithms to optimize trip plans.</li>
-        <li>Delivered a guided UI for destination, activity, and budget selection.</li>
+        <li>Laravel, PHP, Blade, and Tailwind CSS, with SQLite documented for local development.</li>
+        <li>Separate landlord and tenant views for household management, payment tracking, monthly dues, rental history, and announcements.</li>
     </ul>
-    <p>
-        <a href="https://github.com/RAbnza/TravelWise" target="_blank" rel="noopener noreferrer">Source</a>
-    </p>
+    <p><a href="https://github.com/COMP-016-Web-Development-Group-1/HomeRoom">Source</a></p>
 </details>
 
 <details>
-    <summary><strong>RentEase</strong> — property management assistant (Java, JavaFX, MySQL).</summary>
+    <summary><strong>TravelWise</strong> — academic team project for budget-aware itinerary planning.</summary>
     <ul>
-        <li>Automated rent and utility calculations, vacancy tracking, and digital receipts for landlords.</li>
-        <li>Integrated secure database access with real-time notification hooks.</li>
+        <li>Java Swing desktop interface for choosing Philippine destinations, activities, and a trip budget.</li>
+        <li>Boyer–Moore search and branch-and-bound knapsack selection support activity discovery and planning within budget.</li>
     </ul>
-    <p>
-        <a href="https://github.com/LesterOsana18/RentEase-Application" target="_blank" rel="noopener noreferrer">Source</a>
-    </p>
+    <p><a href="https://github.com/RAbnza/TravelWise">Source</a></p>
 </details>
 
-## Experience & Education
+## Internship & Education
 
-### Experience
+### Internship
 
 - <strong>Full-Stack Developer Intern — RADMedics Corporation</strong><br />
 <small>Aug 2025 – Sep 2025 · Mandaluyong, Philippines</small>
@@ -115,7 +110,7 @@
 ### Education
 
 - <strong>Bachelor of Science in Computer Science</strong>, Polytechnic University of the Philippines<br />
-  <small>2021 – Present · Sta. Mesa, Manila · President's List (multiple terms)</small>
+  <small>2021 – 2026 · Sta. Mesa, Manila · Graduated **Cum Laude**</small>
 - <strong>Information and Communications Technology Strand</strong>, Polytechnic University of the Philippines<br />
   <small>2019 – 2021 · Sta. Mesa, Manila · Graduated with High Honors (Top 5%)</small>
 
