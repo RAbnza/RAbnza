@@ -80,7 +80,7 @@
     </ul>
     <p>
         <a href="https://rabnza-dev.vercel.app/">Live portfolio</a>
-        · <a href="https://github.com/RAbnza/rabnza-dev">Source (private repository)</a>
+        · <a href="https://github.com/RAbnza/rabnza-dev">Source</a>
     </p>
 </details>
 
